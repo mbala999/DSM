@@ -1,6 +1,6 @@
 # (TO BE UPLOADED SOON)
 # DSM
-Implementation of the compressible form of the Dynamic Smagorisnky Model for unstructured codes.
+Implementation of the compressible form of the Dynamic Smagorisnky Model (DSM) for unstructured codes.
 
 ## REFERENCE:
 - Germano et al. (1991), Physics of Fluids - Original model
