@@ -1,4 +1,3 @@
-# (TO BE UPLOADED SOON)
 # DSM
 Implementation of the compressible form of the Dynamic Smagorisnky Model (DSM) for unstructured codes.
 
